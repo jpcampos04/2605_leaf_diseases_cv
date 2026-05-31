@@ -31,3 +31,14 @@ Projects like this can support the agricultural sector by helping detect plant d
    pip install pandas numpy matplotlib scikit-learn tensorflow keras
    jupyter notebook 2605_leaf_diseases_cv.ipynb
    ```
+
+## Results
+
+### Training Curves
+![Training Curves](images/training_curves.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Grad-CAM Visualizations
+![Grad-CAM](images/gradcam_results.png)
